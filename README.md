@@ -5,5 +5,6 @@ This is 2026 Ewha Capstone Design team, MatchaTonic's repository.
 ### BE
 https://github.com/2025-MatchaTonic/2025-MatchaTonic-Back
 ### FE
-
+https://github.com/2025-MatchaTonic/2025-MatchaTonic-Front
 ### AI
+https://github.com/2025-MatchaTonic/2025-MatchaTonic-AI
